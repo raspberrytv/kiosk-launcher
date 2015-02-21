@@ -1,4 +1,6 @@
-NOT WORKING CORRECTY
+KIOSK LAUNCHER
+
+Not working correcty
 -------------------------
 
 Permet de créer, sur un système Debian, l'utilisateur raspberrytv, et d'installer les dépendances nécessaires au lancement de l'interface TV.
